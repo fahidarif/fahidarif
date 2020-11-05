@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a Full Stack Engineer...
 - 👯 I’m looking to collaborate with an company to provide software based solutions ...
 - 💬 Feel free to ask me ... 
@@ -12,8 +9,6 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fahidarif/) 
 
-
-⭐ *Star and Fork this repo to try new feature!* 
 
 <h3>Things I code with</h3>
 <p>
@@ -42,6 +37,6 @@ Here are some ideas to get you started:
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=fahidarif&show_icons=true&theme=radical&line_height=27&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fahidarif&hide=css,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=fahidarif&theme=buefy&show_icons=true&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fahidarif&theme=buefy&layout=compact">
 </p>
