@@ -37,6 +37,6 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=fahidarif&theme=buefy&show_icons=true&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=fahidarif&theme=buefy&show_icons=true&count_private=true&include_all_commits=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fahidarif&theme=buefy&layout=compact">
 </p>
