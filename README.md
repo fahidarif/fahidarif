@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**fahidarif/fahidarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Full Stack Engineer...
@@ -44,6 +42,6 @@ Here are some ideas to get you started:
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=fahidarif&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=fahidarif&show_icons=true&theme=radical&line_height=27&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fahidarif&hide=css,html&theme=tokyonight">
 </p>
